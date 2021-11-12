@@ -1,0 +1,2 @@
+rootProject.name = "circle_through_3_points"
+include ':app'
